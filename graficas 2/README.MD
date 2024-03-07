@@ -22,6 +22,11 @@ El dataset incluye las siguientes columnas:
 
 ## 🛠 Herramientas Utilizadas
 
+- Python 🐍: Lenguaje de programación utilizado para la generación de datos sintéticos y la creación de gráficos.
+- Matplotlib 📈: Biblioteca de Python utilizada para la visualización de datos.
+
+## 🧪 Generación de Datos Sintéticos
+
 - **Python**: Lenguaje de programación para realizar el análisis.
 - **Pandas**: Biblioteca de Python para la manipulación y análisis de datos.
 - **Matplotlib**: Biblioteca de Python para la generación de gráficos.
